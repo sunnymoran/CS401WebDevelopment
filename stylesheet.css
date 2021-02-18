@@ -7,6 +7,7 @@ h1{
 float:right;
 border: 5px black solid;	
 width: 15%;
+right:100px;
 text-align: center;
 color:white;
 position: relative;
@@ -26,13 +27,13 @@ h2{
 #menu > ol {
 	list-style: none;
 	margin: 10px;
-	width: 2400px;
+	width: 1500px;
 	font-family: sans-seriff
 }	
 
 #menu > ol > li{
 	display:block;
-	width:200px;
+	width:150px;
 	text-align:center;
 	float:left;
 	margin: auto;
@@ -154,11 +155,11 @@ width: 50%;
 
 .footer {
   position: relative;
-  bottom: -1350px;
+  bottom: -1200px;
   width: 100%;
   height: 2.5rem; 
   text-align:center;
-  background-color:grey;
+  background-color: blue;
   border: 10px black solid;
 }
 
@@ -189,6 +190,7 @@ width: 50%;
   height: 15%;
   position: relative;
   display: inline-block;
+  
 }
 
 .forum3 > img{		
