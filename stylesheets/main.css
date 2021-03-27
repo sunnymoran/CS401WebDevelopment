@@ -3,6 +3,10 @@ h1{
 	font-family: Helvetica;
 }	
 
+.message_return{
+margin:auto;
+}	
+
 .profile{
 float:right;
 border: 5px black solid;	
@@ -51,6 +55,15 @@ float: right;
 }	
 
 .content > img{
+  border: 2.5px solid black;		
+  width: 50%;
+  height: 50%;
+  position: relative;
+  display: inline-block;
+  margin: 0;
+}
+
+.content > a >img{
   border: 2.5px solid black;		
   width: 50%;
   height: 50%;
@@ -205,4 +218,27 @@ font-family: Helvetica;
 }
 
 
-	
+
+.login_button {
+     width: 50%; 
+}
+
+.message {
+  border: 1px black solid;
+  margin: 10 10;
+  padding: 5 5;
+  width: 300px;
+  color: white;
+}
+
+.success_account {
+  background-color: #1E9E1E;
+}
+
+.bad_error {
+  background-color: #B90000;
+}	
+
+.logout {
+  float: right;
+}

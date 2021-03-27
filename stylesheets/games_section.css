@@ -7,17 +7,7 @@ h1{
 body{
 max-width: 100%;	
 }
-
-.profile{
-float:right;
-border: 5px black solid;	
-width: 15%;
-text-align: center;
-color:white;
-position: relative;
-bottom:225px;
-background-color: black;
-}	
+	
 
 .current_page{
   border: 10px black solid;
@@ -34,20 +24,32 @@ border: 10px black solid;
 position: relative;
 width: 90%;
 top: 125px;
+
 }	
 
 .main > div{
 border: 5px black solid;	
-background-color: white;
-top: 150px;
+background-color:red;
+
 }
+
+.content{
+height:200px;
+
+}	
 
 .content > img{
 width:450px;
 height:200px;
 position:relative;
+}
+
+
+.rating{
 display:inline-block;
+background-color:white;
 }	
+
 .footer {
   position: relative;
   bottom: -200px;
@@ -112,3 +114,15 @@ top: -100px;
 text-align: center;
 line-height: 100px
 }
+
+.profile{
+float:right;
+border: 5px black solid;	
+width: 15%;
+right:100px;
+text-align: center;
+color:white;
+position: relative;
+bottom:200px;
+background-color: black;
+}	

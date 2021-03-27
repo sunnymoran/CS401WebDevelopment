@@ -1,0 +1,164 @@
+h1{
+	text-align: center;
+	font-family: Helvetica;
+}	
+
+
+.main_content{
+border: 5px black solid;
+position: relative;	
+top:100px;
+width:85%;
+}
+
+
+
+ .main_content > img{
+  border: 2.5px solid black;		
+  width: 500px;
+  height: 350px; 
+ position:relative;  
+}
+
+
+.profile{
+float:right;
+border: 5px black solid;	
+width: 15%;
+right:100px;
+text-align: center;
+color:white;
+position: relative;
+bottom:285px;
+
+background-color: black;
+}	
+
+
+
+
+body{
+overflow-x:hidden;
+}
+	
+h2{
+	text-align: center;
+	font-family: Helvetica;
+}	
+
+#menu > ol {
+	list-style: none;
+	margin: 10px;
+	width: 1500px;
+	font-family: sans-seriff;
+}	
+
+p{
+
+margin: 5px 5px;
+}	
+
+#menu > ol > li{
+	display:block;
+	width:150px;
+	text-align:center;
+	float:left;
+	margin: auto;
+	border:1px solid #000;
+	background-color: red;
+	top:100px;
+}	
+
+	
+logo{
+	margin-left: auto;
+	margin-right: auto;
+	width:23%;
+	float:left;
+}
+
+
+
+body{
+background-color:orange;
+}	
+
+.footer {
+  position: relative;
+  bottom: -150px;
+  width: 100%;
+  height: 2.5rem; 
+  text-align:center;
+  background-color: blue;
+  border: 10px black solid;
+}
+
+.footer > ul{
+	list-style: none;
+}
+	
+.footer > li{
+  display: inline;
+  border-left: solid 1px #758190;
+  padding: 0 5px;
+  color: white;
+}
+
+.footer > li.first {
+  border-left: none;
+}
+
+.comments {
+height:350px;
+margin-top: 25px;
+}	
+
+p{
+font-family: Helvetica;	
+}
+
+
+
+table {
+  margin-left: 250px;
+  border-collapse:collapse;
+  overflow-y:scroll;	
+  display: inline-block;
+  table-layout:fixed;
+  max-height:250px;
+  max-width:100%;
+  
+}
+
+
+
+table > thead > tr > th  {
+  background-color: #AAA;
+  border: solid 1px #111;
+  padding: 10 10;
+
+}
+
+table > tr, td {
+  border: solid 1px #111;
+  padding: 10px 90px; 
+  
+}
+
+.message {
+  border: 1px black solid;
+  margin: 10 10;
+  padding: 5 5;
+  width: 300px;
+  color: white;
+}
+
+.success_account {
+  background-color: #1E9E1E;
+}
+
+.bad_error {
+  background-color: #B90000;
+}
+
+	

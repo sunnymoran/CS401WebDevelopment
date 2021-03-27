@@ -1,0 +1,80 @@
+now - WARN  --> inserting into a table,username =[sunny] 
+now - INFO  --> inserting into a table,username =[sunny] comment =[testing],table=[] 
+now - DEBUG --> [testing][] 
+now - WARN  --> inserting into a table,username =[] 
+now - WARN  --> Array
+(
+    [0] => Please login before commenting
+)
+ 
+now - WARN  --> inserting into a table,username =[] 
+now - WARN  --> Array
+(
+    [0] => Please login before commenting
+)
+ 
+now - WARN  --> inserting into a table,username =[] 
+now - WARN  --> Array
+(
+    [0] => Please login before commenting
+)
+ 
+now - WARN  --> inserting into a table,username =[] 
+now - WARN  --> Array
+(
+    [0] => Please login before commenting
+)
+ 
+now - WARN  --> inserting into a table,username =[] 
+now - WARN  --> Array
+(
+    [0] => Please login before commenting
+)
+ 
+now - INFO  --> user found!Array
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - DEBUG --> workign username username =[sunny] 
+now - WARN  --> inserting into a table,username =[sunny] 
+now - INFO  --> inserting into a table,username =[sunny] comment =[test],table=[] 
+now - DEBUG --> [test][] 
+now - WARN  --> inserting into a table,username =[sunny] 
+now - INFO  --> inserting into a table,username =[sunny] comment =[awdad],table=[] 
+now - DEBUG --> [awdad][] 
+now - WARN  --> inserting into a table,username =[sunny] 
+now - INFO  --> inserting into a table,username =[sunny] comment =[testing],table=[] 
+now - DEBUG --> [testing][] 
+now - WARN  --> inserting into a table,username =[sunny] 
+now - INFO  --> inserting into a table,username =[sunny] comment =[test],table=[commentsSam] 
+now - DEBUG --> [test][commentsSam] 
+now - WARN  --> inserting into a table,username =[] 
+now - WARN  --> Array
+(
+    [0] => Please login before commenting
+)
+ 
+now - WARN  --> inserting into a table,username =[] 
+now - WARN  --> Array
+(
+    [0] => Please login before commenting
+)
+ 
+now - WARN  --> inserting into a table,username =[] 
+now - WARN  --> Array
+(
+    [0] => Please login before commenting
+)
+ 
+now - INFO  --> user found!Array
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - DEBUG --> workign username username =[sunny] 
+now - WARN  --> inserting into a table,username =[sunny] 
+now - INFO  --> inserting into a table,username =[sunny] comment =[pls work],table=[commentsSam] 
+now - DEBUG --> [pls work][commentsSam] 

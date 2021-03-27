@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title> Games Page</title>
+    <title> Movies </title>
 	<link rel="shortcut icon" type="image/png" href="images/favicon-32x32.png">
 	<link rel = "stylesheet" href="stylesheets/games_section"/>
 	<img src="images/Logo.PNG" alt="Logo Image" width="200" height ="100">
   </head>
   <body>
-	<h1> Games</h1> 
+	<h1> Movies </h1> 
 		<div class ="profile">
 		 <h3> Profile </h3>
 			<a href="createaccount.php">Create An Account! </a>
@@ -25,35 +25,35 @@
 		</ol>
 	</div>
 	<div class="current_page">
-		<h3> home > games</h3>
+		<h3> home > Movies</h3>
 	</div>
 	<div class="main">
 		<div class= "content">
-			<img src="images/Yakuza.jpg">			
+			<img src="images/Killbill.jpg">			
 			<div class= "rating">
-				Rating: 4.9/5
+				Rating: 5/5
 			</div>
 		</div>		
 		<div class= "content">
-			<img src="images/P5S.jpg">
+			<img src="images/ib.jpg">
 			<div class= "rating">
 				Rating: 5/5
 			</div>
 		</div>
 		<div class= "content">
-			<img src="images/P4G.jpg">
+			<img src="images/el.jpg">
 			<div class= "rating">
 				Rating: 4/5
 			</div>
 		</div>	
 		<div class= "content">
-			<img src="images/Val.png">
+			<img src="images/spirited.jpg">
 			<div class= "rating">
-				Rating: 3.5/5
+				Rating: 5/5
 			</div>
 		</div>	
 		<div class= "content">
-			<img src="images/Doom.jpg">
+			<img src="images/tenacious.jpg">
 			<div class= "rating">
 				Rating: 4/5
 			</div>	

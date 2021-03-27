@@ -10,13 +10,13 @@
   <h1>Forums </h1> 
 	<div id="menu">
 		<ol>
-			<li><a href="main_page.html"> Home Page </a></li>
-			<li><a href="games.html"> Games </a></li>
-			<li><a href="movies.html"> Movies </a></li>
-			<li><a href="TV.html"> TV </a></li>
-			<li><a href="music.html"> Music </a></li>
-			<li><a href="forums.html"> Forums </a></li>
-			<li><a href="TV.html"> Etc.. </a></li>		
+			<li><a href="main.php"> Home Page </a></li>
+			<li><a href="games.php"> Games </a></li>
+			<li><a href="movies.php"> Movies </a></li>
+			<li><a href="TV.php"> TV </a></li>
+			<li><a href="music.php"> Music </a></li>
+			<li><a href="forums.php"> Forums </a></li>
+			<li><a href="TV.php"> Etc.. </a></li>		
 		</ol>
 	</div>
 	<div class= "main">
