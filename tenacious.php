@@ -31,7 +31,7 @@ $_SESSION['tableSam'] = "commentsSam";
 		</ol>
 		</div>
 		<div class = "main_content">
-				<img src="images/spirited.jpg"> 	
+				<img src="images/tenacious.jpg"> 	
 				<div class = "description">
 					<p>To become the greatest band of all time, two slacker, wannabe-rockers set out on a quest to
 					steal a legendary guitar pick that gives its holders 
