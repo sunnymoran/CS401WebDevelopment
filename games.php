@@ -3,14 +3,14 @@
   <head>
     <title> Games Page</title>
 	<link rel="shortcut icon" type="image/png" href="images/favicon-32x32.png">
-	<link rel = "stylesheet" href="stylesheets/games_section"/>
+	<link rel = "stylesheet" href="stylesheets/games_section.css"/>
 	<img src="images/Logo.PNG" alt="Logo Image" width="200" height ="100">
   </head>
   <body>
 	<h1> Games</h1> 
 		<div class ="profile">
 		 <h3> Profile </h3>
-			<a href="createaccount.php">Create An Account! </a>
+			<a href="createaccount.php">Create An Account! </as>
 			<span class="logout"><a href="logout.php">Logout</a></span>
 		</div>
 	<div id="menu">
