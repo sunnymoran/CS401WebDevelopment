@@ -11,7 +11,7 @@
 		<div class ="profile">
 		 <h3> Profile </h3>
 			<a href="createaccount.php">Create An Account! </a>
-			<span class="logout"><a href="logout.php">Logout</a></span>
+			<span class="logout">Logout<a href="logout.php"></a></span>
 		</div>
 	<div id="menu">
 		<ol>
