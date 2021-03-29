@@ -29,7 +29,7 @@
 	</div>
 	<div class="main">
 		<div class= "content">
-			<a href="Games/LikeADragon.php">
+			<a href="LikeADragon.php">
 			<img src="images/Yakuza.jpg">	
 			</a>	
 			<div class= "rating">
@@ -38,7 +38,7 @@
 			
 		</div>		
 		<div class= "content">
-			<a href = "Games/P5S.php">
+			<a href = "P5S.php">
 			<img src="images/P5S.jpg">
 			</a>
 			<div class= "rating">
@@ -46,7 +46,7 @@
 			</div>
 		</div>
 		<div class= "content">
-			<a href="Games/P4G.php">
+			<a href="P4G.php">
 			<img src="images/P4G.jpg">
 			</a>
 			<div class= "rating">
@@ -54,7 +54,7 @@
 			</div>
 		</div>	
 		<div class= "content">
-			<a href="Games/Val.php">
+			<a href="Val.php">
 			<img src="images/Val.png">
 			</a>
 			<div class= "rating">
@@ -62,8 +62,8 @@
 			</div>
 		</div>	
 		<div class= "content">
-			<a href ="Games/Doom.php">
-			<img src="images/Doom.jpg">
+			<a href ="Doom.php">
+			<img src="images/doom.jpg">
 			</a>
 			<div class= "rating">
 				Rating: 4/5
