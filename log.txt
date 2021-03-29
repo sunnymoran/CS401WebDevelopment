@@ -78,3 +78,15 @@ now - DEBUG --> workign username username =[sunny]
 now - WARN  --> inserting into a table,username =[sunny] 
 now - INFO  --> inserting into a table,username =[sunny] comment =[pls work],table=[commentsSam] 
 now - DEBUG --> [pls work][commentsSam] 
+now - WARN  --> inserting into a table,username =[] 
+now - WARN  --> Array
+(
+    [0] => Please login before commenting
+)
+ 
+now - WARN  --> inserting into a table,username =[] 
+now - WARN  --> Array
+(
+    [0] => Please login before commenting
+)
+ 

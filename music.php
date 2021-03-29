@@ -3,7 +3,7 @@
   <head>
     <title> Music </title>
 	<link rel="shortcut icon" type="image/png" href="images/favicon-32x32.png">
-	<link rel = "stylesheet" href="stylesheets/games_section.css"/>
+	<link rel = "stylesheet" href="stylesheets/games_section"/>
 	<img src="images/Logo.PNG" alt="Logo Image" width="200" height ="100">
   </head>
   <body>
@@ -11,7 +11,7 @@
 		<div class ="profile">
 		 <h3> Profile </h3>
 			<a href="createaccount.php">Create An Account! </a>
-			<span class="logout">Logout<a href="logout.php"></a></span>
+			<span class="logout"><a href="logout.php">Logout</a></span>
 		</div>
 	<div id="menu">
 		<ol>
@@ -29,31 +29,41 @@
 	</div>
 	<div class="main">
 		<div class= "content">
-			<img src="images/Vanilla">			
+			<a href="vanilla.php">
+			<img src="images/Vanilla">	
+			</a>
 			<div class= "rating">
 				Rating: 5/5
 			</div>
 		</div>		
 		<div class= "content">
+			<a href= "nujabes.php">
 			<img src="images/nujabes.jpg">
+			</a>
 			<div class= "rating">
 				Rating: 5/5
 			</div>
 		</div>
 		<div class= "content">
+			<a href = "solitude.php">
 			<img src="images/solitude.jpg">
+			</a>
 			<div class= "rating">
 				Rating: 4/5
 			</div>
 		</div>	
 		<div class= "content">
+			<a href = "big.php">
 			<img src="images/big.jpg">
+			</a>
 			<div class= "rating">
 				Rating: 5/5
 			</div>
 		</div>	
 		<div class= "content">
+			<a href ="modal">
 			<img src="images/modal.jpg">
+			</href>
 			<div class= "rating">
 				Rating: 4/5
 			</div>	

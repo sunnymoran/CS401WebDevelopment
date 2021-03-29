@@ -40,17 +40,21 @@
 					<div class = "rating">
 					Rating: 4.5/5
 					</div>
-				</a>	
+				</a>
+				<a href= "LikeADragon.php">
 				<h4> Yakuza: Like a Dragon (Games)</h4>
 				<img src="images/Yakuza.jpg">
 					<div class = "rating">
 					Rating: 4.9/5
 					</div>
+				</a>
+				<a href ="CowboyBebop.php">
 				<h4> Cowboy Bebop (TV) </h4>
 				<img src="images/cowboy.jpg"> 
 					<div class = "rating">
 					Rating: 4.8/5
 					</div>
+				</a>	
 				</div>			
 		</div>
 		<div class = "rightbox">

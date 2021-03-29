@@ -11,9 +11,9 @@ $_SESSION['tableSam'] = "commentsSam";
 	<img src="images/Logo.PNG" width="200" height ="100">      
   </head>
   <body>
-  <h1>4.5/5.0</h1> 
-  <h1>Samurai Champloo</h1> 
-  <h2>"Only hope can give rise to the emotion we call despair"</h2>
+  <h1>4.0/5.0</h1> 
+  <h1>Persona 4 Golden</h1> 
+  <h2>"I am thou, and thou art I.."</h2>
 		<div class ="profile">
 		 <h3> Profile </h3>
 			<a href="createaccount.php">Create An Account! </a>
@@ -31,20 +31,17 @@ $_SESSION['tableSam'] = "commentsSam";
 		</ol>
 		</div>
 		<div class = "main_content">
-				<img src="images/samurai.jpg"> 	
-	
+				<img src="images/P4G.jpg"> 	
 				<div class = "description">
-					<p>Samurai Champloo tells the story of three strangers in the Tokugawa era (also known as the Edo Period) who come together on a journey across Japan. 
-					A young woman named Fuu is working as a waitress in a tea shop when she is harassed by a band of samurai. 
-					She is saved by Mugen, a mysterious rogue, and Jin, a young ronin </p>					
+					<p>A coming of age story that sets the protagonist and his friends on a journey kickstarted by a chain of serial murders.</p>					
 					<div class = "list">
 					<ul>
-						<li> Program Creator: Shinichiro Watanabe</li>
-						<li>First Episode Date: May 24, 2005</li>
-						<li>Where to watch: Hulu, Amazon Prime Video, Itunes</li>
-						<li>Cast: Kazuya Nakai, Steve Blum, Ginpei Sato, Ayako Kawasumo,...</li>
-						<li>Genre: Action Fiction</li>
-						<li>Seasons: 1 season, 24 episodes</li>
+						<li> Developers: Atlus, Preapp P Studio</li>
+						<li>Engine: Unity</li>
+						<li>Platforms: ps2, ps3, psv, windows</li>
+						<li>Release: July 10, 2008</li>
+						<li>Genre: JRPG, Adventure </li>
+						<li>Mode(s): Single-player</li>
 					</ul>
 					</div>
 				</div>

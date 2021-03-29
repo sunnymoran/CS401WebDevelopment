@@ -17,7 +17,18 @@ color:white;
 position: relative;
 bottom:225px;
 background-color: black;
+
 }	
+
+.profile > *{
+color:white;	
+	
+}	
+
+.logout{
+background-color:white;	
+	
+} 	
 
 .leftbox{
 margin: 25 25;

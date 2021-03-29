@@ -3,7 +3,7 @@
   <head>
     <title> Games Page</title>
 	<link rel="shortcut icon" type="image/png" href="images/favicon-32x32.png">
-	<link rel = "stylesheet" href="stylesheets/games_section.css"/>
+	<link rel = "stylesheet" href="stylesheets/games_section"/>
 	<img src="images/Logo.PNG" alt="Logo Image" width="200" height ="100">
   </head>
   <body>
@@ -29,31 +29,42 @@
 	</div>
 	<div class="main">
 		<div class= "content">
-			<img src="images/Yakuza.jpg">			
+			<a href="Games/LikeADragon.php">
+			<img src="images/Yakuza.jpg">	
+			</a>	
 			<div class= "rating">
 				Rating: 4.9/5
 			</div>
+			
 		</div>		
 		<div class= "content">
+			<a href = "Games/P5S.php">
 			<img src="images/P5S.jpg">
+			</a>
 			<div class= "rating">
 				Rating: 5/5
 			</div>
 		</div>
 		<div class= "content">
+			<a href="Games/P4G.php">
 			<img src="images/P4G.jpg">
+			</a>
 			<div class= "rating">
 				Rating: 4/5
 			</div>
 		</div>	
 		<div class= "content">
+			<a href="Games/Val.php">
 			<img src="images/Val.png">
+			</a>
 			<div class= "rating">
 				Rating: 3.5/5
 			</div>
 		</div>	
 		<div class= "content">
+			<a href ="Games/Doom.php">
 			<img src="images/Doom.jpg">
+			</a>
 			<div class= "rating">
 				Rating: 4/5
 			</div>	

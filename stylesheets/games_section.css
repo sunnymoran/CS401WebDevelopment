@@ -7,6 +7,16 @@ h1{
 body{
 max-width: 100%;	
 }
+
+.profile > *{
+color:white;	
+	
+}	
+
+.logout{
+background-color:white;	
+	
+} 	
 	
 
 .current_page{
@@ -38,7 +48,7 @@ height:200px;
 
 }	
 
-.content > img{
+.content > a >  img{
 width:450px;
 height:200px;
 position:relative;

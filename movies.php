@@ -29,31 +29,41 @@
 	</div>
 	<div class="main">
 		<div class= "content">
-			<img src="images/Killbill.jpg">			
+			<a href="Killbill.php">
+			<img src="images/Killbill.jpg">		
+			</a>
 			<div class= "rating">
 				Rating: 5/5
 			</div>
 		</div>		
 		<div class= "content">
+		    <a href = "ib.php">
 			<img src="images/ib.jpg">
+			</a>
 			<div class= "rating">
 				Rating: 5/5
 			</div>
 		</div>
 		<div class= "content">
+		    <a href = "el.php">
 			<img src="images/el.jpg">
+			</a>
 			<div class= "rating">
 				Rating: 4/5
 			</div>
 		</div>	
 		<div class= "content">
+		     <a href = "spirited.php">
 			<img src="images/spirited.jpg">
+			</a>
 			<div class= "rating">
 				Rating: 5/5
 			</div>
 		</div>	
 		<div class= "content">
+			<a href = "tenacious.php">
 			<img src="images/tenacious.jpg">
+			</a>
 			<div class= "rating">
 				Rating: 4/5
 			</div>	

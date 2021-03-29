@@ -11,9 +11,9 @@ $_SESSION['tableSam'] = "commentsSam";
 	<img src="images/Logo.PNG" width="200" height ="100">      
   </head>
   <body>
-  <h1>4.5/5.0</h1> 
-  <h1>Samurai Champloo</h1> 
-  <h2>"Only hope can give rise to the emotion we call despair"</h2>
+  <h1>5.0/5.0</h1> 
+  <h1>Persona 5 Strikers</h1> 
+  <h2>"Hee-Ho!"</h2>
 		<div class ="profile">
 		 <h3> Profile </h3>
 			<a href="createaccount.php">Create An Account! </a>
@@ -31,20 +31,18 @@ $_SESSION['tableSam'] = "commentsSam";
 		</ol>
 		</div>
 		<div class = "main_content">
-				<img src="images/samurai.jpg"> 	
-	
+				<img src="images/P5S.jpg"> 	
 				<div class = "description">
-					<p>Samurai Champloo tells the story of three strangers in the Tokugawa era (also known as the Edo Period) who come together on a journey across Japan. 
-					A young woman named Fuu is working as a waitress in a tea shop when she is harassed by a band of samurai. 
-					She is saved by Mugen, a mysterious rogue, and Jin, a young ronin </p>					
+					<p>Join the Phantom Thieves and strike back against the corruption overtaking cities across Japan. A summer vacation with close friends
+					takes a sudden turn as a distorted reality emerges; reveal the truth and redeem the hearts of those imprisoned at the center of the crisis! </p>					
 					<div class = "list">
 					<ul>
-						<li> Program Creator: Shinichiro Watanabe</li>
-						<li>First Episode Date: May 24, 2005</li>
-						<li>Where to watch: Hulu, Amazon Prime Video, Itunes</li>
-						<li>Cast: Kazuya Nakai, Steve Blum, Ginpei Sato, Ayako Kawasumo,...</li>
-						<li>Genre: Action Fiction</li>
-						<li>Seasons: 1 season, 24 episodes</li>
+						<li> Developers: Atlus, Omega Force, P Studio</li>
+						<li>Engine: Unity</li>
+						<li>Platforms: PS4, Windows, Xbox One, PS5, Xbox Series X</li>
+						<li>Release: February 20, 2020</li>
+						<li>Genre: JRPG, Adventure </li>
+						<li>Mode(s): Single-player</li>
 					</ul>
 					</div>
 				</div>

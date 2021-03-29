@@ -11,9 +11,9 @@ $_SESSION['tableSam'] = "commentsSam";
 	<img src="images/Logo.PNG" width="200" height ="100">      
   </head>
   <body>
-  <h1>4.5/5.0</h1> 
-  <h1>Samurai Champloo</h1> 
-  <h2>"Only hope can give rise to the emotion we call despair"</h2>
+  <h1>4.8/5.0</h1> 
+  <h1>Cowboy Bebop</h1> 
+  <h2>"whatever happens, happens "</h2>
 		<div class ="profile">
 		 <h3> Profile </h3>
 			<a href="createaccount.php">Create An Account! </a>
@@ -31,20 +31,20 @@ $_SESSION['tableSam'] = "commentsSam";
 		</ol>
 		</div>
 		<div class = "main_content">
-				<img src="images/samurai.jpg"> 	
+				<img src="images/Cowboy.jpg"> 	
 	
 				<div class = "description">
-					<p>Samurai Champloo tells the story of three strangers in the Tokugawa era (also known as the Edo Period) who come together on a journey across Japan. 
-					A young woman named Fuu is working as a waitress in a tea shop when she is harassed by a band of samurai. 
-					She is saved by Mugen, a mysterious rogue, and Jin, a young ronin </p>					
+					<p>Spike Spiegel is a bounty hunter in the far future with an easy going attitude and some deadly skill at martial arts. 
+					Together with his partners, Jet Black, and later Faye Valentine as well, 
+					they go from job to job across the galaxy looking for the high priced fugitives to bag</p>					
 					<div class = "list">
 					<ul>
-						<li> Program Creator: Shinichiro Watanabe</li>
-						<li>First Episode Date: May 24, 2005</li>
+						<li> Program Creator: Shinichirō Watanabee</li>
+						<li>First Episode Date: April 3, 1998</li>
 						<li>Where to watch: Hulu, Amazon Prime Video, Itunes</li>
-						<li>Cast: Kazuya Nakai, Steve Blum, Ginpei Sato, Ayako Kawasumo,...</li>
+						<li>Cast: Beau Billingslea, Steve Blum, Wendee Lee,...</li>
 						<li>Genre: Action Fiction</li>
-						<li>Seasons: 1 season, 24 episodes</li>
+						<li>Seasons: 1 season, 26 episodes</li>
 					</ul>
 					</div>
 				</div>

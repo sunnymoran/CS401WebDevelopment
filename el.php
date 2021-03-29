@@ -11,9 +11,9 @@ $_SESSION['tableSam'] = "commentsSam";
 	<img src="images/Logo.PNG" width="200" height ="100">      
   </head>
   <body>
-  <h1>4.5/5.0</h1> 
-  <h1>Samurai Champloo</h1> 
-  <h2>"Only hope can give rise to the emotion we call despair"</h2>
+  <h1>4.0/5.0</h1> 
+  <h1>El Camino</h1> 
+  <h2>"Decide For Yourself"</h2>
 		<div class ="profile">
 		 <h3> Profile </h3>
 			<a href="createaccount.php">Create An Account! </a>
@@ -31,20 +31,16 @@ $_SESSION['tableSam'] = "commentsSam";
 		</ol>
 		</div>
 		<div class = "main_content">
-				<img src="images/samurai.jpg"> 	
-	
+				<img src="images/el.jpg"> 	
 				<div class = "description">
-					<p>Samurai Champloo tells the story of three strangers in the Tokugawa era (also known as the Edo Period) who come together on a journey across Japan. 
-					A young woman named Fuu is working as a waitress in a tea shop when she is harassed by a band of samurai. 
-					She is saved by Mugen, a mysterious rogue, and Jin, a young ronin </p>					
+					<p>Fugitive Jesse Pinkman runs from his captors, the law, and his past.</p>					
 					<div class = "list">
 					<ul>
-						<li> Program Creator: Shinichiro Watanabe</li>
-						<li>First Episode Date: May 24, 2005</li>
-						<li>Where to watch: Hulu, Amazon Prime Video, Itunes</li>
-						<li>Cast: Kazuya Nakai, Steve Blum, Ginpei Sato, Ayako Kawasumo,...</li>
-						<li>Genre: Action Fiction</li>
-						<li>Seasons: 1 season, 24 episodes</li>
+						<li>Director: Vince Giligan</li>
+						<li>Cast: Aaron Paul, Jesse Plemons</li>
+						<li>Release: 2019</li>
+						<li>Genre: Western/Crime </li>
+						<li>Budget 6 Million</li>
 					</ul>
 					</div>
 				</div>
