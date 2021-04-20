@@ -36,7 +36,7 @@ $_SESSION['tableSam'] = "commentsSam";
 		</ol>
 		</div>
 		<div class = "main_content">
-				<img src="images/Cowboy.jpg"> 	
+				<img src="images/cowboy.jpg"> 	
 	
 				<div class = "description">
 					<p>Spike Spiegel is a bounty hunter in the far future with an easy going attitude and some deadly skill at martial arts. 

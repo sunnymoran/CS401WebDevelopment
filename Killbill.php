@@ -37,7 +37,7 @@ $_SESSION['tableSam'] = "commentsSam";
 		</ol>
 		</div>
 		<div class = "main_content">
-				<img src="images/Killbill.jpg"> 	
+				<img src="images/KillBill.jpg"> 	
 				<div class = "description">
 					<p>After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her. </p>					
 					<div class = "list">
