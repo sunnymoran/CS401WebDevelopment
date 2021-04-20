@@ -70,7 +70,7 @@
 		</div>	
 		<div class= "content">
 			<a href ="Doom.php">
-			<img src="images/Doom.jpg">
+			<img src="images/doom.jpg">
 			</a>
 			<div class= "rating">
 				Rating: 4/5

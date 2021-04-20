@@ -37,7 +37,7 @@
 	<div class="main">
 		<div class= "content">
 			<a href="Killbill.php">
-			<img src="images/Killbill.jpg">		
+			<img src="images/KillBill.jpg">		
 			</a>
 			<div class= "rating">
 				Rating: 5/5

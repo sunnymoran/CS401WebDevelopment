@@ -3,7 +3,7 @@
   <head>
     <title > Music </title>
 	<link rel="shortcut icon" type="image/png" href="images/favicon-32x32.png">
-	<link rel = "stylesheet" href="stylesheets/games_section"/>
+	<link rel = "stylesheet" href="stylesheets/games_section.css"/>
 	<img src="images/Logo.PNG" alt="Logo Image" width="200" height ="100">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 	<script src="javascript/main_page.js"></script>
