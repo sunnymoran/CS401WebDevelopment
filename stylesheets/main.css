@@ -1,11 +1,15 @@
 h1{
 	text-align: center;
-	font-family: Helvetica;
+	font-family: 'Antonio', sans-serif;
+	font-family: 'Zen Dots', cursive;
 }	
 
-.message_return{
-margin:auto;
-}	
+.burning{
+  color: white;         
+  background: #00BFFF;   
+  letter-spacing: 1em;   
+  font-weight: bold;
+}
 
 .profile{
 float:right;
@@ -30,20 +34,25 @@ background-color:white;
 	
 } 	
 
+
+
+
 .leftbox{
 margin: 25 25;
 }
 	
 h2{
 	text-align: center;
-	font-family: Helvetica;
+	font-family: 'Antonio', sans-serif;
+	font-family: 'Zen Dots', cursive;
 }	
 
 #menu > ol {
 	list-style: none;
 	margin: 10px;
 	width: 1500px;
-	font-family: sans-seriff
+	font-family: 'Antonio', sans-serif;
+	font-family: 'Zen Dots', cursive;
 }	
 
 #menu > ol > li{
@@ -55,7 +64,22 @@ h2{
 	border:1px solid #000;
 	background-color: red;
 	top:100px;
-}	
+}
+
+#menu > ol > li a {
+	display:block;
+	padding:5px 10px;
+	height:100%;
+	color:#FFF;
+	text-decoration:none;
+	border-right:1px solid #FFF;
+}
+#menu > ol > li a {
+	background:url(bg2.jpg) repeat 0 0;
+}
+#menu > ol > li a:hover {
+	background-position:50px 0;
+}
 
 leftbox{
 float:left;
@@ -100,6 +124,7 @@ logo{
   background: white;
 }
 
+
 	
 .login{
   border: 10px black solid;
@@ -126,6 +151,8 @@ logo{
   float: right;
   text-align:center;
   background: white;
+  	font-family: 'Antonio', sans-serif;
+	font-family: 'Zen Dots', cursive;	
 }	
 
 .forum{
@@ -159,7 +186,7 @@ input[type=text], select {
 }
 
 body{
-background-color:orange;
+background-color: #00BFFF;
 }	
 
 class{
@@ -168,7 +195,8 @@ class{
 	
 h3{
 	text-align: left-side;
-	font-family: Helvetica;
+	font-family: 'Antonio', sans-serif;
+	font-family: 'Zen Dots', cursive;
 }
 
 .rating{
@@ -252,4 +280,25 @@ font-family: Helvetica;
 
 .logout {
   float: right;
+}
+
+.close_message{
+	float:right;
+}	 
+
+
+.close_message:hover{
+	text-decoration: underline;
+	cursor:pointer;
+}	
+
+
+p {
+	font-family: 'Antonio', sans-serif;
+	font-family: 'Zen Dots', cursive;		
+}	
+
+body {
+font-family: 'Antonio', sans-serif;
+font-family: 'Zen Dots', cursive;
 }

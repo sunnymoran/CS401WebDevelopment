@@ -8,12 +8,18 @@ $_SESSION['tableSam'] = "commentsSam";
     <title> Sunny's Website</title>
 	<link rel = "stylesheet" href="stylesheets/page.css">
 	<link rel="shortcut icon" type="image/png" href="images/favicon-32x32.png" >
-	<img src="images/Logo.PNG" width="200" height ="100">      
+	<img src="images/Logo.PNG" width="200" height ="100">  
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script src="javascript/jquery.burn.min.js"></script>
+	<script src="javascript/burning.js"></script>
+     
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Antonio&family=Zen+Dots&display=swap" rel="stylesheet">    
   </head>
   <body>
-  <h1>5.0/5.0</h1> 
-  <h1>Kill Bill</h1> 
-  <h2>"Revenge Is A Dish Best Served Cold."</h2>
+  <h1 class="burning">5.0/5.0</h1> 
+  <h1 class="burning">Kill Bill</h1> 
+  <h2 class="burning">"Revenge Is A Dish Best Served Cold."</h2>
 		<div class ="profile">
 		 <h3> Profile </h3>
 			<a href="createaccount.php">Create An Account! </a>
@@ -31,7 +37,7 @@ $_SESSION['tableSam'] = "commentsSam";
 		</ol>
 		</div>
 		<div class = "main_content">
-				<img src="images/KillBill.jpg"> 	
+				<img src="images/Killbill.jpg"> 	
 				<div class = "description">
 					<p>After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her. </p>					
 					<div class = "list">

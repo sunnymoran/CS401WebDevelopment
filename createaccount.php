@@ -7,9 +7,17 @@
  	<link rel = "stylesheet" href="stylesheets/createaccount.css">
 	<link rel="shortcut icon" type="image/png" href="images/favicon-32x32.png" >
 	<img src="images/Logo.PNG" width="200" height ="100">  
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script src="javascript/main_page.js"></script>
+	<script src="javascript/navigation.js"></script>
+	<script src="javascript/jquery.burn.min.js"></script>
+	<script src="javascript/burning.js"></script>
+		<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Antonio&family=Zen+Dots&display=swap" rel="stylesheet">
+
 </head>
 <body>
-<h1>reviewgeeksworld </h1>
+<h1 class ="burning">reviewgeeksworld </h1>
 	   <div id="menu">
 		<ol>
 			<li><a href="main.php"> Home Page </a></li>
@@ -24,7 +32,7 @@
 
 <form method="post" action="account_handler.php" enctype="multipart/form-data" >
   <div class="container">
-    <h1>Sign Up</h1>
+    <h1 class ="burning">Sign Up</h1>
     <p>Please fill in this form to create an account.</p>
 
     <label for="username"><b>Username</b></label>
@@ -37,7 +45,7 @@
     <input value="<?php echo isset($_SESSION['form_data']['age']) ? $_SESSION['form_data']['age'] : ''; ?>" type="text" placeholder="Enter Age" id="age" name="age">
 	
 	<label for="password"><b>Password</b></label>
-    <input value="<?php echo isset($_SESSION['form_data']['user_password']) ? $_SESSION['form_data']['user_password'] : ''; ?>" type="text" placeholder="Enter password" id="user_password" name="user_password" >
+    <input value="<?php echo isset($_SESSION['form_data']['user_password']) ? $_SESSION['form_data']['user_password'] : ''; ?>" type="password" placeholder="Enter password" id="user_password" name="user_password" >
     
     <div class="clearfix">
       <input type="submit" class="signupbtn" value="Submit"></input>
@@ -56,9 +64,6 @@
 Please follow the instructions in order to succesfully create an account:
 <ul>
 			<li>Age: must be a valid number</li>
-			<li>Email: must be less than 48 characters</li>
-			<li>Username: must be less than 15 characters long</li>
-			<li>Password must be less than 15 characters long</li>
 			<li>Email: Must be a valid email address Example: kingdom@gmail.com</li>	
 </ul>
 

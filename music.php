@@ -1,13 +1,20 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title> Music </title>
+    <title > Music </title>
 	<link rel="shortcut icon" type="image/png" href="images/favicon-32x32.png">
-	<link rel = "stylesheet" href="stylesheets/games_section.css"/>
+	<link rel = "stylesheet" href="stylesheets/games_section"/>
 	<img src="images/Logo.PNG" alt="Logo Image" width="200" height ="100">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script src="javascript/main_page.js"></script>
+	<script src="javascript/navigation.js"></script>
+	<script src="javascript/jquery.burn.min.js"></script>
+	<script src="javascript/burning.js"></script>
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Antonio&family=Zen+Dots&display=swap" rel="stylesheet">
   </head>
   <body>
-	<h1> Music </h1> 
+	<h1 class="burning"> Music </h1> 
 		<div class ="profile">
 		 <h3> Profile </h3>
 			<a href="createaccount.php">Create An Account! </a>

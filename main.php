@@ -4,15 +4,29 @@
 <!DOCTYPE html>
 <html>
   <head>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script src="javascript/main_page.js"></script>
+	<script src="javascript/navigation.js"></script>
+	<script src="javascript/jquery.burn.min.js"></script>
+	<script src="javascript/burning.js"></script>
+
     <title> Sunny's Website</title>
 	<link rel = "stylesheet" href="stylesheets/main.css">
 	<link rel="shortcut icon" type="image/png" href="images/favicon-32x32.png" >
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Antonio&family=Zen+Dots&display=swap" rel="stylesheet">
 	<img src="images/Logo.PNG" width="200" height ="100">      
   </head>
   <body>
-  <h1>reviewgeeksworld </h1> 
-  <h2>A hive of entertainment awaits you!</h2>
+	<h1 class="burning"> reviewgeeksworld </h1>
+  <h2 class="burning">A hive of entertainment awaits you!</h2>
 		<div class ="profile">
+		<?php
+		if(isset($_SESSION['current_user'])){	
+		echo $_SESSION['current_user'];
+		}
+
+		?>
 		 <h3> Profile </h3>
 			<a href="createaccount.php">Create An Account! </a>
 			<span class="logout"><a href="logout.php">Logout</a></span>
@@ -74,7 +88,7 @@
 					<?php
 						if (isset($_SESSION['messages1'])) {
 							foreach ($_SESSION['messages1'] as $message1) {
-						echo "<div class='" . $_SESSION['class1'] . " message'>{$message1}</div>";
+						echo "<div class='" . $_SESSION['class1'] . " message'>{$message1}<span class='close_message'>X</span></div>";
 						}
 							}
 					unset($_SESSION['messages1']);
@@ -108,7 +122,7 @@
 						everything seems difficult. Give Vanilla's albumn "Origin" a try.
 					</p>
 					</div>	
-		</div>		
+			</div>		
 		</div>
     <div class="footer">
      <li class="first">&copy;2021 Sunny Moran</li>

@@ -8,12 +8,17 @@ $_SESSION['tableSam'] = "commentsSam";
     <title> Sunny's Website</title>
 	<link rel = "stylesheet" href="stylesheets/page.css">
 	<link rel="shortcut icon" type="image/png" href="images/favicon-32x32.png" >
-	<img src="images/Logo.PNG" width="200" height ="100">      
+	<img src="images/Logo.PNG" width="200" height ="100">   
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script src="javascript/jquery.burn.min.js"></script>
+	<script src="javascript/burning.js"></script>    
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Antonio&family=Zen+Dots&display=swap" rel="stylesheet">	
   </head>
   <body>
-  <h1>4.3/5.0</h1> 
-  <h1>Sherlock</h1> 
-  <h2>"Don't let it get to you. I always feel like screaming when you walk into a room"</h2>
+  <h1 class="burning">4.3/5.0</h1> 
+  <h1 class="burning">Sherlock</h1> 
+  <h2 class="burning">"Don't let it get to you. I always feel like screaming when you walk into a room"</h2>
 		<div class ="profile">
 		 <h3> Profile </h3>
 			<a href="createaccount.php">Create An Account! </a>

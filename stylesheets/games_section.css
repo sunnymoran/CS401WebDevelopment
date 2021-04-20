@@ -1,17 +1,23 @@
 h1{
 	text-align: center;
-	font-family: Helvetica;
+	font-family: 'Antonio', sans-serif;
+	font-family: 'Zen Dots', cursive;
 
 }
 
 body{
-max-width: 100%;	
+max-width: 100%;
+background-color: #00BFFF;
+	font-family: 'Antonio', sans-serif;
+	font-family: 'Zen Dots', cursive;
 }
 
 .profile > *{
 color:white;	
 	
 }	
+
+
 
 .logout{
 background-color:white;	
@@ -88,18 +94,20 @@ background-color:white;
 
 h3{
 	text-align: center;
-	font-family: Helvetica;
+	font-family: 'Antonio', sans-serif;
+	font-family: 'Zen Dots', cursive;
 }	
 
 body{
-background-color:orange;
+background-color: #00BFFF;
 }		
 
 #menu > ol {
 	list-style: none;
 	margin: 10px;
 	width: 1500px;
-	font-family: sans-seriff;
+	font-family: 'Antonio', sans-serif;
+	font-family: 'Zen Dots', cursive;
 }	
 
 #menu > ol > li{
@@ -112,6 +120,22 @@ background-color:orange;
 	background-color: red;
 	top:100px;
 }	
+
+#menu > ol > li a {
+	display:block;
+	padding:5px 10px;
+	height:100%;
+	color:#FFF;
+	text-decoration:none;
+	border-right:1px solid #FFF;
+}
+#menu > ol > li a {
+	background:url(bg2.jpg) repeat 0 0;
+}
+#menu > ol > li a:hover {
+	background-position:50px 0;
+}
+
 
 .rating{
 border: 5px;
@@ -136,3 +160,10 @@ position: relative;
 bottom:200px;
 background-color: black;
 }	
+
+.burning{
+  color: white;         
+  background: #00BFFF;   
+  letter-spacing: 1em;   
+  font-weight: bold;
+}

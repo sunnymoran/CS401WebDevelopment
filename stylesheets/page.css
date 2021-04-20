@@ -1,8 +1,15 @@
 h1{
 	text-align: center;
-	font-family: Helvetica;
+	font-family: 'Antonio', sans-serif;
+font-family: 'Zen Dots', cursive;
 }	
 
+.burning{
+  color: white;         
+  background: #00BFFF;   
+  letter-spacing: 1em;   
+  font-weight: bold;
+}
 
 .main_content{
 border: 5px black solid;
@@ -52,14 +59,16 @@ overflow-x:hidden;
 	
 h2{
 	text-align: center;
-	font-family: Helvetica;
+	font-family: 'Antonio', sans-serif;
+font-family: 'Zen Dots', cursive;
 }	
 
 #menu > ol {
 	list-style: none;
 	margin: 10px;
 	width: 1500px;
-	font-family: sans-seriff;
+	font-family: 'Antonio', sans-serif;
+font-family: 'Zen Dots', cursive;
 }	
 
 p{
@@ -78,6 +87,22 @@ margin: 5px 5px;
 	top:100px;
 }	
 
+
+#menu > ol > li a {
+	display:block;
+	padding:5px 10px;
+	height:100%;
+	color:#FFF;
+	text-decoration:none;
+	border-right:1px solid #FFF;
+}
+#menu > ol > li a {
+	background:url(bg2.jpg) repeat 0 0;
+}
+#menu > ol > li a:hover {
+	background-position:50px 0;
+}	
+
 	
 logo{
 	margin-left: auto;
@@ -89,7 +114,9 @@ logo{
 
 
 body{
-background-color:orange;
+background-color:#00BFFF;
+font-family: 'Antonio', sans-serif;
+font-family: 'Zen Dots', cursive;
 }	
 
 .footer {
@@ -123,7 +150,8 @@ margin-top: 25px;
 }	
 
 p{
-font-family: Helvetica;	
+	font-family: 'Antonio', sans-serif;
+font-family: 'Zen Dots', cursive;	
 }
 
 

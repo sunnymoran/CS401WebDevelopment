@@ -48,12 +48,13 @@ protected $logger;
 	public function insertAccount($username,$email,$age,$user_password){
 //	$this->logger->LogInfo("inserting an account username=[{$username}],email=[{$email}],age=[{$age}],password=[{$user_password}] "); 
 	$conn = $this->getConnection();
-	$saveQuery = "insert into users (username, email, age, user_password) values (:username, :email, :age , :user_password)";
+	$saveQuery = "insert into users (username, email, age, user_password) values (:username, :email, :age , :hash)";
 	$q = $conn->prepare($saveQuery);
     $q->bindParam(":username", $username);
     $q->bindParam(":email", $email);
     $q->bindParam(":age", $age);
-	$q->bindParam(":user_password", $user_password);
+	$hash = hash('sha256',$user_password);
+	$q->bindParam(":hash", $hash);
 	$this->logger->LogDebug("[{$username}][{$email}][{$age}][{$user_password}]");
     $q->execute();
 	}
@@ -85,12 +86,13 @@ protected $logger;
   public function accountExists($username, $password){
 		$conn = $this->getConnection();
 		try{
-		$q = $conn->prepare("select count(*) as total from users where username = :username and user_password = :password");
+		$hash = hash('sha256',$password);
+		$q = $conn->prepare("select count(*) as total from users where username = :username and user_password = :hash");
         $q->bindParam(":username", $username);
-        $q->bindParam(":password", $password);
+        $q->bindParam(":hash", $hash);
         $q->execute();
         $row = $q->fetch();
-        if ($row['total'] == 1) {
+        if ($row['total'] == 1) {			
            $this->logger->LogInfo("user found!" . print_r($row,1));
            return true;
         } else {
@@ -99,7 +101,7 @@ protected $logger;
         } 
 		}catch(Exception $e) {
 		echo print_r($e,1);
-		exit;  
+		exit();  
   } 
 		
 }

@@ -90,3 +90,436 @@ now - WARN  --> Array
     [0] => Please login before commenting
 )
  
+now - INFO  --> user not found!Array
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user not found!Array
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user not found!Array
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user not found!Array
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user not found!Array
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user not found!Array
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user found!Array
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - DEBUG --> workign username username =[sunny] 
+now - INFO  --> user not found!Array
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user not found!Array
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user not found!Array
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user not found!Array
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user not found!Array
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user not found!Array
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user not found!Array
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user not found!Array
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user not found!Array
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user not found!Array
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user not found!Array
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user not found!Array
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user not found!Array
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user not found!Array
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user not found!Array
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user not found!Array
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user not found!Array
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user found!Array
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - DEBUG --> workign username username =[sunny] 
+now - INFO  --> user not found!Array
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user not found!Array
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user not found!Array
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user not found!Array
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user found!Array
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - DEBUG --> workign username username =[sunny] 
+now - INFO  --> user found!Array
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - DEBUG --> workign username username =[sunny] 
+now - INFO  --> user not found!Array
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user found!Array
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - DEBUG --> workign username username =[sunny] 
+now - INFO  --> user found!Array
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - DEBUG --> workign username username =[sunny] 
+now - INFO  --> user found!Array
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - DEBUG --> workign username username =[sunny] 
+now - INFO  --> user found!Array
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - DEBUG --> workign username username =[sunny] 
+now - INFO  --> user found!Array
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - DEBUG --> workign username username =[sunny] 
+now - INFO  --> user found!Array
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - DEBUG --> workign username username =[sunny] 
+now - INFO  --> user found!Array
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - DEBUG --> workign username username =[sunny] 
+now - INFO  --> user found!Array
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - DEBUG --> workign username username =[sunny] 
+now - WARN  --> Array
+(
+    [0] => Invalid Age: Enter a number
+    [1] => Invalid email: Please try again
+)
+ 
+now - WARN  --> inserting into a table,username =[] 
+now - WARN  --> Array
+(
+    [0] => Please login before commenting
+)
+ 
+now - WARN  --> Array
+(
+    [0] => Invalid email: Please try again
+)
+ 
+now - WARN  --> Array
+(
+    [0] => Invalid email: Please try again
+)
+ 
+now - DEBUG --> [Diego][kingdiego25@gmail.com][23][Diego@25] 
+now - INFO  --> user not found! 
+now - INFO  --> user not found! 
+now - INFO  --> user not found! 
+now - INFO  --> user not found! 
+now - INFO  --> user not found! 
+now - INFO  --> user found!Array
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - DEBUG --> workign username username =[sunny] 
+now - INFO  --> user not found!Array
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user not found!Array
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user not found!Array
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user found!Array
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - DEBUG --> workign username username =[Diego] 
+now - WARN  --> inserting into a table,username =[Diego] 
+now - INFO  --> inserting into a table,username =[Diego] comment =[GoDiegoGo],table=[commentsSam] 
+now - DEBUG --> [GoDiegoGo][commentsSam] 
+now - INFO  --> user not found!Array
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - DEBUG --> [sunny][sunnymoran@u.boisestate.edu][23][MonkeyKing@245] 
+now - INFO  --> user not found!Array
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user not found!Array
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user not found!Array
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user not found!Array
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user not found!Array
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user not found!Array
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user found!Array
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - DEBUG --> workign username username =[Diego] 
+now - DEBUG --> [sunny][sunnymoran@u.boisestate.edu][23][MonkeyKing@24] 
+now - INFO  --> user found!Array
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - DEBUG --> workign username username =[sunny] 
+now - INFO  --> user found!Array
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - DEBUG --> workign username username =[sunny] 
+now - INFO  --> user not found!Array
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user found!Array
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - DEBUG --> workign username username =[sunny] 
+now - INFO  --> user not found!Array
+(
+    [total] => 0
+    [0] => 0
+)
+ 
+now - INFO  --> user found!Array
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - DEBUG --> workign username username =[Diego] 
+now - WARN  --> Array
+(
+    [0] => Invalid Age: Enter a number
+    [1] => Invalid email: Please try again
+)
+ 
+now - WARN  --> Array
+(
+    [0] => Invalid email: Please try again
+)
+ 
+now - INFO  --> user found!Array
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - DEBUG --> workign username username =[sunny] 
+now - WARN  --> inserting into a table,username =[sunny] 
+now - INFO  --> inserting into a table,username =[sunny] comment =[much wow],table=[commentsSam] 
+now - DEBUG --> [much wow][commentsSam] 
+now - WARN  --> inserting into a table,username =[] 
+now - WARN  --> Array
+(
+    [0] => Please login before commenting
+)
+ 
